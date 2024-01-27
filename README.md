@@ -1,0 +1,1 @@
+This repo is about deploying USD INR prediction using Flask
